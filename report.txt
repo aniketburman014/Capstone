@@ -1,0 +1,52 @@
+{
+  "2019": {
+    "Sedan X1": { "Production": 15000, "Sales": 12000, "Inventory": 3000 },
+    "SUV Y2": { "Production": 13000, "Sales": 10000, "Inventory": 3000 },
+    "Compact Z3": { "Production": 10000, "Sales": 9000, "Inventory": 1000 },
+    "Electric E4": { "Production": 3000, "Sales": 2000, "Inventory": 1000 },
+    "Luxury L5": { "Production": 4000, "Sales": 3000, "Inventory": 1000 },
+    "Truck T6": { "Production": 18000, "Sales": 15000, "Inventory": 3000 },
+    "Hatchback H7": { "Production": 12000, "Sales": 11000, "Inventory": 1000 },
+    "Convertible C8": { "Production": 4000, "Sales": 2500, "Inventory": 1500 }
+  },
+  "2020": {
+    "Sedan X1": { "Production": 16000, "Sales": 14000, "Inventory": 2000 },
+    "SUV Y2": { "Production": 14000, "Sales": 12000, "Inventory": 2000 },
+    "Compact Z3": { "Production": 10500, "Sales": 9500, "Inventory": 1000 },
+    "Electric E4": { "Production": 7000, "Sales": 5000, "Inventory": 2000 },
+    "Luxury L5": { "Production": 4500, "Sales": 3500, "Inventory": 1000 },
+    "Truck T6": { "Production": 19000, "Sales": 16000, "Inventory": 3000 },
+    "Hatchback H7": { "Production": 12500, "Sales": 11500, "Inventory": 1000 },
+    "Convertible C8": { "Production": 4200, "Sales": 2600, "Inventory": 1600 }
+  },
+  "2021": {
+    "Sedan X1": { "Production": 17000, "Sales": 15000, "Inventory": 2000 },
+    "SUV Y2": { "Production": 15000, "Sales": 13000, "Inventory": 2000 },
+    "Compact Z3": { "Production": 12000, "Sales": 11000, "Inventory": 1000 },
+    "Electric E4": { "Production": 11000, "Sales": 10000, "Inventory": 1000 },
+    "Luxury L5": { "Production": 5000, "Sales": 4000, "Inventory": 1000 },
+    "Truck T6": { "Production": 20000, "Sales": 17000, "Inventory": 3000 },
+    "Hatchback H7": { "Production": 13000, "Sales": 12000, "Inventory": 1000 },
+    "Convertible C8": { "Production": 4500, "Sales": 2700, "Inventory": 1800 }
+  },
+  "2022": {
+    "Sedan X1": { "Production": 18000, "Sales": 15500, "Inventory": 2500 },
+    "SUV Y2": { "Production": 16000, "Sales": 14000, "Inventory": 2000 },
+    "Compact Z3": { "Production": 12500, "Sales": 11500, "Inventory": 1000 },
+    "Electric E4": { "Production": 16000, "Sales": 15000, "Inventory": 1000 },
+    "Luxury L5": { "Production": 5500, "Sales": 4500, "Inventory": 1000 },
+    "Truck T6": { "Production": 21000, "Sales": 18000, "Inventory": 3000 },
+    "Hatchback H7": { "Production": 13500, "Sales": 12500, "Inventory": 1000 },
+    "Convertible C8": { "Production": 4700, "Sales": 2800, "Inventory": 1900 }
+  },
+  "2023": {
+    "Sedan X1": { "Production": 19000, "Sales": 16000, "Inventory": 3000 },
+    "SUV Y2": { "Production": 17000, "Sales": 14500, "Inventory": 2500 },
+    "Compact Z3": { "Production": 13000, "Sales": 12000, "Inventory": 1000 },
+    "Electric E4": { "Production": 21000, "Sales": 20000, "Inventory": 1000 },
+    "Luxury L5": { "Production": 6000, "Sales": 5000, "Inventory": 1000 },
+    "Truck T6": { "Production": 22000, "Sales": 19000, "Inventory": 3000 },
+    "Hatchback H7": { "Production": 14000, "Sales": 13000, "Inventory": 1000 },
+    "Convertible C8": { "Production": 5000, "Sales": 3000, "Inventory": 2000 }
+  }
+}
